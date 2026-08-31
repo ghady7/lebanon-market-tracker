@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Environment Variables
+# Keep your local database secrets private
+.env
+
+# Logs
+logs/*.log
+!logs/.gitkeep
+
+# Operating System
+.DS_Store
+Thumbs.db
